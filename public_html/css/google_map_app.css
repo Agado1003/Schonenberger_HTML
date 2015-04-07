@@ -1,0 +1,14 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 7 avr. 2015, 11:54:59
+    Author     : AGADEAU
+*/
+#map-container {
+    height: 300px;
+    margin:0px 30px 15px 0px;
+    border:1px solid #e3e3e3;
+}
